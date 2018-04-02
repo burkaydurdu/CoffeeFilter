@@ -1,2 +1,2 @@
 # CoffeeFilter Project
-![](/public/images/svg/coffee-filter.svg =40x40)
+![](/public/images/svg/coffee-filter.svg | width=40)
