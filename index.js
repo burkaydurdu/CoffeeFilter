@@ -5,6 +5,15 @@ import ReactDOMServer from 'react-dom/server'
 import express from 'express'
 import expressReactView from 'express-react-views'
 
+import user from './db/api/methods'
+
+// user.user_created({
+//     username: 'engineer',
+//     email: ['burkaydurdu@outlook.com'],
+//     password: '1412hh52',
+//     name:'burkay durdu'
+// });
+
 const app = express();
 
 
