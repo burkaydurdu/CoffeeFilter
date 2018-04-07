@@ -8,7 +8,7 @@ export default class NavBar extends Component {
                 <a className="navbar-brand" href="/">
                 <img className="header-svg-vertical" src="/images/svg/coffee-filter.svg" width="35" height="35"/>
                 <img src="/images/svg/coffee.svg" width="20" height="20"/>
-                CoffeeFilter
+                FilterCoffee
                 </a>
                 <div className="navbar-collapse collapse w-100 order-3 dual-collapse2" id="navbarNavDropdown">
                     <ul className="navbar-nav ml-auto">

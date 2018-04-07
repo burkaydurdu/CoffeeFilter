@@ -1,12 +1,12 @@
 {
-  "name": "coffee-filter",
+  "name": "filter-coffee",
   "version": "1.0.0",
   "description": "Framework",
   "main": "index.js",
   "keywords": [
     "Coffee",
     "filter",
-    "Coffee-Filter",
+    "Filter-Coffee",
     "NodeJs",
     "React"
   ],
